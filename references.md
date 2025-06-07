@@ -1,3 +1,7 @@
-# References
 
-* octocat 1 😈
+hopefully 
+this 
+text
+causes
+some
+conflicts
